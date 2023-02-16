@@ -35,6 +35,3 @@
     Bib Fortuna
     alexa@ubuntu:~/0x06$ 
 
-## Resources
-- [swapi-api.hbtn.io](https://swapi-api.hbtn.io/)    
-- [request module](https://github.com/request/request)  
